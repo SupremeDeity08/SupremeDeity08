@@ -1,6 +1,8 @@
 ### Hi there, I'm〈SupremeDeity〉 👋
 ![GitHub followers](https://img.shields.io/github/followers/SupremeDeity08?label=Follow%20Me&logo=github&style=for-the-badge)
 
+### Note: My previous account that I have lost access to - ![SupremeDeity](https://github.com/SupremeDeity) 
+
 ## Just a Teen University Student :smile:
 I'm still just a University student working and learning different things that interest me, from website to mobile and desktop.
 
